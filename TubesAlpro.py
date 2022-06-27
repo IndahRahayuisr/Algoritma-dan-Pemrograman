@@ -184,11 +184,6 @@ while True:
             lainnya = 0
             tambahan = 0
 
-            #novel += int(jumlahnovel)
-            #komik += int(jumlahkomik)
-            #ensiklopedia += int(jumlahensiklopedia)
-            #lainnya += int(jumlahbuku)
-            #tambahan += int(tambahberapa) + int(jumlahbuku)
             daftar_novel = novel + jumlahnovel
             daftar_komik = komik + jumlahkomik
             daftar_ensiklopedia = ensiklopedia + jumlahensiklopedia
